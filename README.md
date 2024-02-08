@@ -25,13 +25,18 @@ Here are some ideas to get you started:
 📧 **이메일**: kariseio@naver.com
 
 🚀 **좋아하는 기술**:
-<img src="https://img.shields.io/badge/Java-green?style=for-the-badge&logo=Java&logoColor=007396"/>
-<img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=Spring&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Spring Boot-green?style=for-the-badge&logo=Spring&logoColor=#6DB33F"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/jQuery-yellow?style=for-the-badge&logo=jQuery&logoColor=0769AD"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kariseio&layout=compact)](https://github.com/kariseio/github-readme-stats)
 
@@ -57,7 +62,7 @@ Here are some ideas to get you started:
 ### 📫 프로젝트
 | 프로젝트 이름 | 내용 | 링크 |
 |:---:|:---|:---:|
-| 따릉이로 문화생활 | 스프링 클라우드 모듈을 활용한 MSA 개발과 분사처리 환경의 경험 | [GitHub](https://github.com/kariseio/MSA_CultureWithSBike) |
+| 따릉이로 문화생활 | 스프링 클라우드 모듈을 활용한 MSA 개발과 분산처리 환경의 경험 | [GitHub](https://github.com/kariseio/MSA_CultureWithSBike) |
 <!--
 | GPT를 이용한 개발 | GPT를 활용한 백엔드 프로젝트 | [GitHub](https://github.com/KAN-JUNHO/fastApiProject2) |
 | 티타이니 어드민 페이지 웹퍼블리싱 | 티타이니 관리자 페이지의 웹 디자인 및 퍼블리싱 | [GitHub](https://github.com/KAN-JUNHO/teetiny) |
